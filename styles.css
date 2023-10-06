@@ -94,7 +94,16 @@ a{
     background-image: url('pic5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 50% 55%;
 }
+
+.pic5{
+    background-image: url('cheercute.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 55%;
+}
+
 .pic2{
     background-image: url('gif2.gif');
     background-repeat: no-repeat;
@@ -281,7 +290,7 @@ a{
     border-radius: 8px;
 }
 .justab{
-    background-image: url('pic5.jpg');
+    background-image: url('cheercute.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 24rem;
