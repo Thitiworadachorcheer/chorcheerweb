@@ -98,11 +98,13 @@ a{
 .pic2{
     background-image: url('gif2.gif');
     background-repeat: no-repeat;
+    background-position: 50% 30%;
     background-size: cover;
 }
 .pic3{
     background-image: url('gif1.gif');
     background-repeat: no-repeat;
+    background-position: 50% 30%;
     background-size: cover;
 }
 .text{
