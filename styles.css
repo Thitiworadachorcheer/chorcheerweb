@@ -306,3 +306,10 @@ a{
     text-decoration: underline;
     color: #e991c0;
 }
+
+.center {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+}
